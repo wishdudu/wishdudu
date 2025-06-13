@@ -38,7 +38,7 @@ redirect_from:
 </style>
 
 # About Me
-I am currently a first-year master's student at School of Computer, National University of Defense Technology, Southeast University (NUDT), under the supervision of Professor Zhen Huang.
+I am currently a first-year master's student at School of Computer, National University of Defense Technology (NUDT), under the supervision of Professor Zhen Huang.
 
 # Publications
 
