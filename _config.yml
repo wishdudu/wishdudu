@@ -9,31 +9,32 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiale Fu's Homepage"
+title                    : "WeiXu Zhang's HomePage"
 title_separator          : "-"
-name                     : &name "Jiale Fu"
-description              : &description "A person"
-url                      : https://jialefu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "WeiXu Zhang"
+description              : &description "personal description"
+url                      : https://wishdudu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jialefu/jialefu.github.io"
+repository               : "wishdudu/wishdudu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
-  name             : "Jiale Fu"
-  pronouns         : "he/his" # example: "she/her"
-  bio              : "A master's student at Southeast University."
-  location         : "Nanjing, China"
-  employer         : "Southeast University"
+  avatar           : "bio-photo.png"
+  name             : "WeiXu Zhang"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "A master's student at National University of Defense Technology"
+  location         : "Changsha, China"
+  employer         : "National University of Defense Technology"
   uri              : # URL
-  email            : "jiale.fu@seu.edu.cn" 
+  email            : "wishzhang2@gmail.com" 
 
   # Academic websites
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Ec38OWoAAAAJ"
+  googlescholar    : "https://scholar.google.com"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -45,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : jialefu
+  github           : wishdudu
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +65,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : wishdudu
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -73,14 +74,14 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "shui-ba-shui-de-shi-yan-dang-zhen-27"
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
@@ -136,7 +137,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
