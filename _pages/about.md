@@ -42,5 +42,17 @@ I am currently a first-year master's student at School of Computer, National Uni
 
 # Publications
 
+[Research on Disruptive Technology Topic Recognition Based on CLIP-LDAGV Multimodal Information Fusion — A Case Study of the New Energy Field.](https://doi.org/10.3772/j.issn.1000-0135.2025.03.008)<br>
+Lyu Kun, **WeiXu Zhang**, Jing Jipeng<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.*<br>
+<a href="https://doi.org/10.3772/j.issn.1000-0135.2025.03.008" class="mybutton">PDF</a>
 
 # Experiences
+- National University of Defense Technology, Changsha (Sept 2025 – Present)<br>
+Master's Student at School of Computer.
+
+- Ningbo Artificial Intelligence Institute Shanghai Jiao Tong University, Ningbo (May 2025 – Aug 2025)<br>
+Research Intern, focusing on RAG development and LLM-based tool applications.
+
+- Ningbo University, Ningbo (Sept 2021 – Jun 2025)<br>
+Bachelor’s Student in information management and information system.
